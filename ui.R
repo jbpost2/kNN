@@ -7,5 +7,5 @@ shinyUI(pageWithSidebar(
   ),
   mainPanel(
     plotOutput('plot1', width = "600px", height = "600px",  click = "click_plot")#hover = "hover",
-  )
+  )g
 ))
