@@ -1,0 +1,12 @@
+name: knn
+title: kNN
+username: jbpost2
+account: jbpost2
+server: shiny.stat.ncsu.edu
+hostUrl: https://shiny.stat.ncsu.edu/__api__
+appId: 38
+bundleId: 56
+url: https://shiny.stat.ncsu.edu/content/c9b2e575-b5da-4243-a32e-3c74db28431e/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
